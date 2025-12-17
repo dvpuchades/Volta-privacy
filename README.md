@@ -1,10 +1,10 @@
 # Volta Privacy Policy
 
-## Overview
+## Overview
 
 Volta does not collect, store, transmit, or share any personal or non-personal data from the user’s device.
 
-## Data Collection and Use
+## Data Collection and Use
 
 All data created or used by Volta remains entirely on the user’s device.
 The app does not:
